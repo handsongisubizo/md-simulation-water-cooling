@@ -43,30 +43,6 @@ This project demonstrates molecular dynamics (MD) simulations of water molecules
 
 ---
 
-## How to Run
-
-Make sure LAMMPS is installed, then run:
-
-```bash
-lmp_serial -in water.in
-```
-
-For parallel execution:
-
-```bash
-mpirun -np 4 lmp_mpi -in water.in
-```
-
-Ensure the `data.water` file reflects whether you are running a 2D or 3D simulation.
-
----
-
-## Visualization
-
-Use Ovito or VMD to open `dump.water` and observe how molecules transition from high-energy dispersion to low-energy clusters as cooling progresses.
-
----
-
 ## Author
 
 **Handsome Gisubizo**  
