@@ -45,7 +45,7 @@ This project demonstrates molecular dynamics (MD) simulations of water molecules
 
 ## Author
 
-**Handsome Gisubizo**  
+**Handson Gisubizo**  
 MSE Chemical & Biomolecular Engineering  
 Johns Hopkins University  
  [hgisubi1@jhu.edu](mailto:hgisubi1@jh.edu)  
