@@ -3,7 +3,7 @@
 
 This project demonstrates molecular dynamics (MD) simulations of water molecules in both 2D and 3D periodic systems using LAMMPS. As the system cools, water molecules transition from a dispersed state to condensed clusters, mimicking phenomena such as condensation and early-stage freezing.
 
-> 🚧 This project is currently in progress. Simulation input files, scripts, and results will be uploaded soon.
+>  This project is currently in progress. Simulation input files, scripts, and results will be uploaded soon.
 
 ---
 
@@ -72,8 +72,8 @@ Use Ovito or VMD to open `dump.water` and observe how molecules transition from 
 **Handsome Gisubizo**  
 MSE Chemical & Biomolecular Engineering  
 Johns Hopkins University  
-📧 [hgisubi1@jhu.edu](mailto:hgisubi1@jhu.edu)  
-🔗 [@handsongisubizo](https://github.com/handsongisubizo)
+ [hgisubi1@jhu.edu](mailto:hgisubi1@jh.edu)  
+ [@handsongisubizo](https://github.com/handsongisubizo)
 
 ---
 
