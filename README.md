@@ -1,7 +1,7 @@
 
 # Water Cluster Cooling Simulation using LAMMPS
 
-This project demonstrates molecular dynamics (MD) simulations of water molecules in both 2D and 3D periodic systems using LAMMPS. As the system cools, water molecules transition from a dispersed state to condensed clusters, mimicking phenomena such as condensation and early-stage freezing.
+This project demonstrates molecular dynamics (MD) simulations of water molecules in both 3D periodic systems using LAMMPS. As the system cools, water molecules transition from a dispersed state to condensed clusters, mimicking phenomena such as condensation and early-stage freezing.
 
 >  This project is currently in progress. Simulation input files, scripts, and results will be uploaded soon.
 
@@ -12,7 +12,7 @@ This project demonstrates molecular dynamics (MD) simulations of water molecules
 - Simulate water molecule motion using classical MD
 - Apply gradual cooling to observe thermal behavior
 - Visualize condensation and clustering
-- Compare water behavior in 2D and 3D systems
+- Compare water behavior in 3D systems
 
 ---
 
@@ -22,15 +22,15 @@ This project demonstrates molecular dynamics (MD) simulations of water molecules
 |---------------|------------------------------------------------------|
 | Software      | LAMMPS                                               |
 | Water Model   | TIP3P or SPC/E                                       |
-| Box Setup     | Periodic boundary conditions (2D or 3D)              |
+| Box Setup     | Periodic boundary conditions 3D                      |
 | Initialization| Random molecular positions                           |
-| Thermostat    | Used to apply cooling (e.g., `fix temp/berendsen`)   |
-| Output        | Dump files for visualization                        |
-| Visualization | Ovito or VMD                                         |
+| Thermostat    | Used to apply cooling                                |
+| Output        | Dump files for visualization                         |
+| Visualization | Ovito / VMD                                          |
 
 ---
 
-## Planned File Contents
+## File Contents
 
 | File           | Purpose                                          |
 |----------------|--------------------------------------------------|
@@ -61,4 +61,4 @@ Released under the MIT License. Use and modification are allowed with attributio
 
 ## Tags
 
-`LAMMPS` `MolecularDynamics` `WaterSimulation` `Cooling` `TIP3P` `SPCE` `Ovito` `PhaseTransition` `2D` `3D`
+`LAMMPS` `MolecularDynamics` `WaterSimulation` `Cooling` `TIP3P` `SPCE` `Ovito` `PhaseTransition `3D`
