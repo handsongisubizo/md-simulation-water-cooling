@@ -19,9 +19,6 @@ This project shows molecular dynamics (MD) simulations of water molecules in bot
 ## Author
 
 **Handson Gisubizo**  
-MSE Chemical & Biomolecular Engineering  
-Johns Hopkins University  
- [hgisubi1@jhu.edu](mailto:hgisubi1@jh.edu)  
  [@handsongisubizo](https://github.com/handsongisubizo)
 
 ---
