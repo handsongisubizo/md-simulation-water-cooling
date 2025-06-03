@@ -1,7 +1,7 @@
 
 # Water Cluster Cooling Simulation using LAMMPS
 
-This project demonstrates molecular dynamics (MD) simulations of water molecules in both 3D periodic systems using LAMMPS. As the system cools, water molecules transition from a dispersed state to condensed clusters, mimicking phenomena such as condensation and early-stage freezing.
+This project shows molecular dynamics (MD) simulations of water molecules in both 3D periodic systems using LAMMPS. As the system cools, water molecules transition from a dispersed state to condensed clusters, mimicking phenomena such as condensation and early-stage freezing.
 
 >  This project is currently in progress. Simulation input files, scripts, and results will be uploaded soon.
 
