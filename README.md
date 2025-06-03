@@ -31,7 +31,3 @@ Johns Hopkins University
 Released under the MIT License. Use and modification are allowed with attribution.
 
 ---
-
-## Tags
-
-`LAMMPS` `MolecularDynamics` `WaterSimulation` `Cooling` `TIP3P` `SPCE` `Ovito` `PhaseTransition `3D`
