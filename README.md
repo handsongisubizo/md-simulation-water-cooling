@@ -16,33 +16,6 @@ This project demonstrates molecular dynamics (MD) simulations of water molecules
 
 ---
 
-## Methodology
-
-| Feature       | Description                                          |
-|---------------|------------------------------------------------------|
-| Software      | LAMMPS                                               |
-| Water Model   | TIP3P or SPC/E                                       |
-| Box Setup     | Periodic boundary conditions 3D                      |
-| Initialization| Random molecular positions                           |
-| Thermostat    | Used to apply cooling                                |
-| Output        | Dump files for visualization                         |
-| Visualization | Ovito / VMD                                          |
-
----
-
-## File Contents
-
-| File           | Purpose                                          |
-|----------------|--------------------------------------------------|
-| `water.in`     | Main input script for LAMMPS                     |
-| `data.water`   | Initial coordinates and topology                 |
-| `log.lammps`   | Simulation log output                            |
-| `dump.water`   | Atom trajectories for visualization              |
-| `cooling_visual.mp4` | Optional video showing molecular clustering |
-| `README.md`    | Project overview and instructions                |
-
----
-
 ## Author
 
 **Handson Gisubizo**  
