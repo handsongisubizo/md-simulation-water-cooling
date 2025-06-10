@@ -12,7 +12,6 @@ This project shows molecular dynamics (MD) simulations of water molecules in bot
 - Simulate water molecule motion using classical MD
 - Apply gradual cooling to observe thermal behavior
 - Visualize condensation and clustering
-- Compare water behavior in 3D systems
 
 ---
 
